@@ -1,16 +1,35 @@
-### Hi there 👋
+### Hello! 👋 I'm Lina Franco, a Colombian Front-end Developer 🇨🇴
 
-<!--
-**linaf21/linaf21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Colombian Flag](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/320px-Flag_of_Colombia.svg.png)
 
-Here are some ideas to get you started:
+#### About Me
+- 👩‍💻 Front-end Developer with a passion for both Web and Mobile.
+- 🌐 I mainly work with JavaScript, HTML, CSS, TypeScript, Angular, React, and React Native.
+- 📱 Enthusiastic about mobile app development using React Native.
+- ✨ A lover of design and usability, with a soft spot for Tailwind CSS.
+- 🚀 Always seeking to learn and enhance my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech Skills
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+#### Featured Projects
+- 🌟 [Project 1](link-to-project): Brief description of the project.
+- 🌟 [Project 2](link-to-project): Brief description of the project.
+- 🌟 [Project 3](link-to-project): Brief description of the project.
+
+#### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+#### Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+#### Contact
+- 📫 You can find me on [LinkedIn][https://www.linkedin.com/in/lina-maría-franco-olaya/] to connect.
