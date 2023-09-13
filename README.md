@@ -1,6 +1,6 @@
 ### Hello! 👋 I'm Lina Franco, a Colombian Front-end Developer 🇨🇴
 
-![Colombian Flag](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/320px-Flag_of_Colombia.svg.png)
+![Colombian Flag](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/160px-Flag_of_Colombia.svg.png)
 
 #### About Me
 - 👩‍💻 Front-end Developer with a passion for both Web and Mobile.
@@ -26,10 +26,10 @@
 - 🌟 [Project 3](link-to-project): Brief description of the project.
 
 #### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=linaf21&show_icons=true&theme=radical)
 
 #### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linaf21&layout=compact&theme=radical)
 
 #### Contact
-- 📫 You can find me on [LinkedIn][https://www.linkedin.com/in/lina-maría-franco-olaya/] to connect.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lina-mar%C3%ADa-franco-olaya/)
