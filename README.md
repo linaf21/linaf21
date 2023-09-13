@@ -1,6 +1,4 @@
-### Hello! 👋 I'm Lina Franco, a Colombian Front-end Developer 🇨🇴
-
-![Colombian Flag](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/160px-Flag_of_Colombia.svg.png)
+### Hello! 👋 I'm Lina Franco, a Colombian Front-end Developer 🇨🇴 ![Colombian Flag](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/20px-Flag_of_Colombia.svg.png)
 
 #### About Me
 - 👩‍💻 Front-end Developer with a passion for both Web and Mobile.
