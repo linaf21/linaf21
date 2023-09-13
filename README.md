@@ -19,11 +19,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-#### Featured Projects
-- 🌟 [Project 1](link-to-project): Brief description of the project.
-- 🌟 [Project 2](link-to-project): Brief description of the project.
-- 🌟 [Project 3](link-to-project): Brief description of the project.
-
 #### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=linaf21&show_icons=true&theme=radical)
 
