@@ -8,21 +8,19 @@
 - 🚀 Always seeking to learn and enhance my skills.
 
 #### Tech Skills
-<div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-  <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
-  <a href="https://reactjs.org/" title="React"><img src="https://img.icons8.com/offices/48/000000/react.png"/></a>
-  <a href="https://reactnative.dev/" title="React Native"><img src="https://img.icons8.com/offices/48/000000/react.png"/></a>
-  <a href="https://angular.io/" title="Angular"><img src="https://img.icons8.com/color/48/000000/angularjs.png"/></a>
-  <a href="https://material-ui.com/" title="Material-UI"><img src="https://img.icons8.com/color/48/000000/material-ui.png"/></a>
-  <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://img.icons8.com/color/48/000000/tailwind-css.png"/></a>
-  <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
-  <a href="https://flutter.dev/" title="Flutter"><img src="https://img.icons8.com/color/48/000000/flutter.png"/></a>
-  <a href="https://dart.dev/" title="Dart"><img src="https://img.icons8.com/color/48/000000/dart.png"/></a>
-  <a href="https://github.com/" title="GitHub"><img src="https://img.icons8.com/ios/48/000000/github--v1.png"/></a>
-</div>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Material-UI](https://img.shields.io/badge/-Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 #### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=linaf21&show_icons=true&theme=radical)
